@@ -4,7 +4,7 @@ I'm a PhD student in robotics at the University of Maryland being advised by [Pr
 
 🧑‍💻 I love coding in **Python** and **C++**. Some technologies I use daily are:
 
-ROS2 • PyTorch • Scikit-Learn • TensorFlow (Probability) • Numpy/SciPy/Matplotlib • Eigen
+ROS2 • PyTorch • Scikit-Learn • TensorFlow Probability • Numpy/SciPy/Matplotlib • Eigen
 
 
 Let's connect [email](zbortoff@umd.edu)  [LinkedIn](https://www.linkedin.com/in/zachary-bortoff/)
